@@ -1,3 +1,5 @@
-trades and goods 
+trades
+goods 
 sign in 
-authentication 2p2
+authentication 
+2p2
