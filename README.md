@@ -1,5 +1,5 @@
 trades
 goods 
 sign in 
-authentication 
-2p2
+authenacation 2p2
+positive proof of ID
